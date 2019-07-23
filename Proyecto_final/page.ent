@@ -1,0 +1,24 @@
+entity Python {
+  url : string 
+}
+entity BeautifulSoup {
+  url : string 
+}
+entity Django {
+  url : string 
+}
+entity Jinja2 {
+  url : string 
+}
+entity textx {
+  url : string 
+}
+entity ply {
+  url : string 
+}
+entity Regex {
+  url : string 
+}
+entity linux {
+  url : string 
+}       

@@ -1,0 +1,25 @@
+*{
+    background: #111;
+    color: #fff;
+    font-family: "montserrat";
+}
+.btn{
+    border:0;
+    border-radius:10px;
+    background: #34495e;
+    color: #fff;
+    padding: 10px 40px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn:hover{
+    background: #2980b9;
+}
+.txt{
+    margin: 10px;
+    border: 0;
+    border-radius: 4px;
+    background: #333;
+    padding: 10px 20px;
+    font-size: 14px;
+}
