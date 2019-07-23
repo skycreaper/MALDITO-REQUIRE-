@@ -11,6 +11,7 @@
   "author": "David Santos",
   "license": "ISC",
   "dependencies": {
+    "browserify": "^16.3.0",
     "cheerio": "^1.0.0-rc.3",
     "jquery": "^3.4.1",
     "jsonframe-cheerio": "^3.0.1",
