@@ -61,12 +61,13 @@ if __name__ == "__main__":
     main()
 
 """
-  https://es.wikipedia.org/wiki/Linux       
-  https://docs.python.org/2/library/re.html       
-  https://pypi.org/project/ply/       
-  https://pypi.org/project/textX/       
-  https://pypi.org/project/Jinja2/       
-  https://docs.djangoproject.com/es/2.2/   
-  https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-  https://docs.python.org/3/
+https://docs.python.org/2/library/string.html
+https://docs.python.org/2/library/collections.html
+https://docs.python.org/2/library/array.html
+https://docs.python.org/2/library/sets.html
+https://docs.python.org/2/library/queue.html
+https://docs.python.org/2/library/types.html
+https://docs.python.org/2/library/math.html
+https://docs.python.org/2/library/functools.html
+https://docs.python.org/2/library/os.path.html
 """

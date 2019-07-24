@@ -1,24 +1,45 @@
-entity Python {
-  url : string 
+entity libstring {
+  url : string
+  name : string
+  id : integer
 }
-entity BeautifulSoup {
-  url : string 
+entity libcollections {
+  url : string
+  name : string
+  id : integer
 }
-entity Django {
-  url : string 
+entity libarray {
+  url : string
+  name : string
+  id : integer
 }
-entity Jinja2 {
-  url : string 
+entity libsets {
+  url : string
+  name : string
+  id : integer
 }
-entity textx {
-  url : string 
+entity libqueue {
+  url : string
+  name : string
+  id : integer
 }
-entity ply {
-  url : string 
+entity libtypes {
+  url : string
+  name : string
+  id : integer
 }
-entity Regex {
-  url : string 
+entity libmath {
+  url : string
+  name : string
+  id : integer
 }
-entity linux {
-  url : string 
-}       
+entity libfunctools {
+  url : string
+  name : string
+  id : integer
+}
+entity libospath {
+  url : string
+  name : string
+  id : integer
+} 
