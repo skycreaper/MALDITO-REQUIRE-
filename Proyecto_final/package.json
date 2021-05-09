@@ -11,11 +11,11 @@
   "author": "David Santos",
   "license": "ISC",
   "dependencies": {
-    "browserify": "^16.3.0",
-    "cheerio": "^1.0.0-rc.3",
-    "jquery": "^3.5.0",
+    "browserify": "^17.0.0",
+    "cheerio": "^1.0.0-rc.9",
+    "jquery": "^3.6.0",
     "jsonframe-cheerio": "^3.0.1",
-    "nodemon": "^1.19.1",
+    "nodemon": "^2.0.7",
     "request": "^2.88.0"
   }
 }
